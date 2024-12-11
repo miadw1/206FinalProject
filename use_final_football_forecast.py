@@ -203,12 +203,6 @@ def get_combined_data(conn):
     ''')
     return c.fetchall()
 
-#debugging
-# def check_weather_conditions(conn):
-#     c = conn.cursor()
-#     c.execute('SELECT DISTINCT condition_name FROM conditions')
-#     conditions = c.fetchall()
-
 # Fetch combined data filtered for sunny weather
 def get_sunny_games(conn):
     c = conn.cursor()
