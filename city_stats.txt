@@ -1,0 +1,73 @@
+City	Total Games	Average Home Score	Average Away Score	Avg Temp (C)
+Albuquerque, NM	1	31.00	35.000	2.2000
+Alpine, TX	1	21.00	42.000	0.0000
+Annapolis, MD	1	49.00	21.000	11.7000
+Atlanta, GA	1	23.00	24.000	18.3000
+Bemidji, MN	1	19.00	13.000	0.0000
+Birmingham, AL	1	41.00	3.000	16.1000
+Bismarck, ND	1	23.00	6.000	0.0000
+Boiling Springs, NC	1	20.00	21.000	16.1000
+Boulder, CO	1	31.00	26.000	0.0000
+Bowling Green, OH	1	41.00	17.000	3.9000
+Buffalo, NY	1	30.00	13.000	7.8000
+Chadron, NE	1	6.00	18.000	0.0000
+Champaign, IL	1	45.00	0.000	0.0000
+Cheney, WA	1	42.00	27.000	0.0000
+College Park, MD	1	50.00	7.000	9.3000
+Columbia, MO	1	50.00	0.000	0.1000
+Dayton, OH	1	18.00	10.000	2.8000
+Des Moines, IA	1	0.00	0.000	0.0000
+Dublin, Ireland	1	24.00	21.000	5.1000
+Durham, NC	1	26.00	3.000	18.9000
+East Lansing, MI	1	16.00	10.000	1.7000
+Edinboro, PA	1	12.00	24.000	5.1000
+Emporia, KS	1	30.00	14.000	1.1000
+Fairmont, WV	1	50.00	24.000	12.8000
+Hays, KS	1	21.00	7.000	1.1000
+Honolulu, HI	1	35.00	14.000	27.1000
+Jacksonville, AL	1	27.00	50.000	17.2000
+Jefferson City, TN	1	50.00	7.000	14.1000
+Kansas City, KS	1	48.00	3.000	2.2000
+Kingsville, TX	1	13.00	16.000	13.9000
+Las Vegas, NM	1	37.00	50.000	0.0000
+Little Rock, AR	1	50.00	0.000	6.1000
+Logan, UT	1	36.00	14.000	0.0000
+Macon, GA	1	50.00	10.000	17.8000
+Madison, WI	1	28.00	14.000	0.0000
+Marquette, MI	1	7.00	35.000	0.0000
+Maryville, MO	1	22.00	36.000	0.0000
+Millersville, PA	1	7.00	36.000	9.4000
+Minneapolis, MN	1	17.00	19.000	0.0000
+Minot, ND	1	38.00	7.000	0.0000
+Monroe, LA	1	30.00	14.000	12.2000
+Montgomery, AL	1	37.00	15.000	18.2000
+Morehead, KY	1	17.00	10.000	9.0000
+Morgantown, WV	1	12.00	34.000	13.3000
+Mount Pleasant, MI	1	50.00	10.000	1.2000
+Nacogdoches, TX	1	50.00	0.000	7.2000
+New Orleans, LA	1	50.00	0.000	17.2000
+Newark, DE	2	48.00	17.000	10.6000
+Norman, OK	1	50.00	3.000	2.3000
+Orlando, FL	1	50.00	3.000	21.1000
+Orono, ME	1	17.00	14.000	0.0000
+Piscataway, NJ	1	44.00	7.000	8.9000
+Raleigh, NC	1	38.00	21.000	18.9000
+Rapid City, SD	1	6.00	35.000	0.0000
+Reno, NV	1	24.00	29.000	2.2000
+Salt Lake City, UT	1	49.00	0.000	0.0000
+San Jose, CA	1	42.00	24.000	12.2000
+St. Paul, MN	1	13.00	34.000	0.0000
+Stanford, CA	1	27.00	34.000	12.2000
+Stephenville, TX	1	26.00	23.000	2.4000
+Tahlequah, OK	1	31.00	33.000	0.0000
+Toledo, OH	1	49.00	10.000	2.2000
+Tulsa, OK	1	50.00	28.000	2.8000
+Vermillion, SD	1	45.00	3.000	0.0000
+Villanova, PA	1	24.00	17.000	11.7000
+Wayne, NE	2	49.00	17.000	8.3000
+West Liberty, WV	1	21.00	41.000	10.1000
+West Point, NY	1	42.00	7.000	6.2000
+Wheeling, WV	1	25.00	28.000	10.1000
+Wichita Falls, TX	1	18.00	11.000	3.3000
+Williamsburg, VA	1	41.00	7.000	15.3000
+Winston-Salem, NC	1	45.00	13.000	16.7000
