@@ -166,7 +166,7 @@ def insert_game_data(conn, game_data):
     ''', (home_team_id, away_team_id, game_data['home_score'], game_data['away_score'], venue_id, city_id))
     conn.commit()
 
-    def get_or_create_id(conn, table_name, column_name, value):
+def get_or_create_id(conn, table_name, column_name, value):
     c = conn.cursor()
     c.execute(f'SELECT id FROM {table_name} WHERE {column_name} = ?', (value,))
     result = c.fetchone()
