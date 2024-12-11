@@ -1,70 +1,137 @@
 City	Total Games	Average Home Score	Average Away Score	Avg Temp (C)
+Albany, NY	1	27.00	21.000	11.1000
 Albuquerque, NM	1	31.00	35.000	2.2000
 Alpine, TX	1	21.00	42.000	0.0000
+Ames, IA	1	21.00	3.000	0.0000
+Amherst, MA	1	14.00	28.000	7.3000
 Annapolis, MD	1	49.00	21.000	11.7000
-Atlanta, GA	1	23.00	24.000	18.3000
+Atlanta, GA	9	22.67	18.333	10.9000
+Austin, TX	1	50.00	0.000	5.6000
 Bemidji, MN	1	19.00	13.000	0.0000
+Berkeley, CA	1	31.00	13.000	6.7000
 Birmingham, AL	1	41.00	3.000	16.1000
 Bismarck, ND	1	23.00	6.000	0.0000
+Bloomington, IN	1	31.00	7.000	0.0000
+Bluefield, WV	1	3.00	34.000	0.3000
 Boiling Springs, NC	1	20.00	21.000	16.1000
+Boone, NC	1	38.00	10.000	6.6000
 Boulder, CO	1	31.00	26.000	0.0000
 Bowling Green, OH	1	41.00	17.000	3.9000
 Buffalo, NY	1	30.00	13.000	7.8000
+Carrollton, GA	1	38.00	29.000	4.2000
+Cedar Falls, IA	1	35.00	7.000	0.0000
 Chadron, NE	1	6.00	18.000	0.0000
 Champaign, IL	1	45.00	0.000	0.0000
+Charleston, SC	1	21.00	22.000	19.1000
+Charlottesville, VA	1	34.00	13.000	14.4000
 Cheney, WA	1	42.00	27.000	0.0000
+Cincinnati, OH	1	38.00	20.000	0.6000
 College Park, MD	1	50.00	7.000	9.3000
+Colorado Springs, CO	1	21.00	6.000	0.0000
 Columbia, MO	1	50.00	0.000	0.1000
+Columbia, SC	1	23.00	19.000	17.8000
+Columbus, OH	1	50.00	6.000	0.0000
+Corvallis, OR	1	38.00	15.000	1.7000
 Dayton, OH	1	18.00	10.000	2.8000
+DeKalb, IL	1	50.00	15.000	0.0000
+DeLand, FL	1	41.00	3.000	25.3000
 Des Moines, IA	1	0.00	0.000	0.0000
 Dublin, Ireland	1	24.00	21.000	5.1000
+Due West, SC	1	50.00	0.000	13.9000
+Durango, CO	1	20.00	35.000	0.0000
 Durham, NC	1	26.00	3.000	18.9000
 East Lansing, MI	1	16.00	10.000	1.7000
 Edinboro, PA	1	12.00	24.000	5.1000
+Emory, VA	1	38.00	7.000	2.5000
 Emporia, KS	1	30.00	14.000	1.1000
+Evanston, IL	1	13.00	6.000	0.0000
+Fairfield, CT	1	15.00	17.000	14.4000
 Fairmont, WV	1	50.00	24.000	12.8000
+Flagstaff, AZ	1	50.00	6.000	0.0000
+Fort Valley, GA	1	42.00	45.000	10.6000
+Frankfort, KY	1	7.00	50.000	0.0000
+Gainesville, FL	1	17.00	41.000	21.1000
+Greenville, NC	1	42.00	3.000	19.2000
+Hagerstown, MD	1	41.00	24.000	10.3000
+Hampton, VA	1	28.00	30.000	21.3000
 Hays, KS	1	21.00	7.000	1.1000
-Honolulu, HI	1	35.00	14.000	27.1000
+Honolulu, HI	2	24.00	15.000	27.1000
+Houston, TX	4	10.50	30.500	10.1000
+Huntington, WV	1	45.00	3.000	0.6000
+Indianapolis, IN	1	40.00	7.000	0.0000
+Iowa City, IA	1	40.00	0.000	0.0000
 Jacksonville, AL	1	27.00	50.000	17.2000
 Jefferson City, TN	1	50.00	7.000	14.1000
+Jonesboro, AR	1	34.00	31.000	5.2000
 Kansas City, KS	1	48.00	3.000	2.2000
+Kingston, RI	1	20.00	17.000	12.2000
 Kingsville, TX	1	13.00	16.000	13.9000
+Knoxville, TN	1	50.00	3.000	1.3000
 Las Vegas, NM	1	37.00	50.000	0.0000
+Lincoln, NE	1	40.00	7.000	0.0000
 Little Rock, AR	1	50.00	0.000	6.1000
+Livingston, AL	1	16.00	15.000	8.9000
 Logan, UT	1	36.00	14.000	0.0000
+Louisville, KY	1	50.00	0.000	2.8000
+Lynchburg, VA	1	41.00	24.000	15.6000
 Macon, GA	1	50.00	10.000	17.8000
 Madison, WI	1	28.00	14.000	0.0000
+Manhattan, KS	1	41.00	6.000	0.0000
 Marquette, MI	1	7.00	35.000	0.0000
 Maryville, MO	1	22.00	36.000	0.0000
+Memphis, TN	1	40.00	0.000	6.7000
 Millersville, PA	1	7.00	36.000	9.4000
 Minneapolis, MN	1	17.00	19.000	0.0000
 Minot, ND	1	38.00	7.000	0.0000
+Mobile, AL	1	38.00	50.000	10.6000
 Monroe, LA	1	30.00	14.000	12.2000
 Montgomery, AL	1	37.00	15.000	18.2000
 Morehead, KY	1	17.00	10.000	9.0000
 Morgantown, WV	1	12.00	34.000	13.3000
 Mount Pleasant, MI	1	50.00	10.000	1.2000
 Nacogdoches, TX	1	50.00	0.000	7.2000
+Nashville, TN	4	37.50	24.000	4.7500
 New Orleans, LA	1	50.00	0.000	17.2000
 Newark, DE	2	48.00	17.000	10.6000
 Norman, OK	1	50.00	3.000	2.3000
+Odessa, TX	1	41.00	3.000	7.2000
 Orlando, FL	1	50.00	3.000	21.1000
 Orono, ME	1	17.00	14.000	0.0000
+Oxford, MS	1	50.00	0.000	7.2000
+Pembroke, NC	1	12.00	17.000	20.6000
 Piscataway, NJ	1	44.00	7.000	8.9000
-Raleigh, NC	1	38.00	21.000	18.9000
+Pittsburgh, PA	1	50.00	24.000	4.4000
+Prairie View, TX	1	9.00	27.000	10.2000
+Pullman, WA	1	50.00	30.000	0.0000
+Raleigh, NC	4	27.50	17.000	18.3500
 Rapid City, SD	1	6.00	35.000	0.0000
 Reno, NV	1	24.00	29.000	2.2000
+Salisbury, NC	1	7.00	38.000	15.6000
 Salt Lake City, UT	1	49.00	0.000	0.0000
+San Antonio, TX	4	28.00	11.500	6.1500
 San Jose, CA	1	42.00	24.000	12.2000
 St. Paul, MN	1	13.00	34.000	0.0000
 Stanford, CA	1	27.00	34.000	12.2000
+Starkville, MS	1	50.00	7.000	6.1000
+Staten Island, NY	1	46.00	7.000	11.1000
+Statesboro, GA	1	45.00	50.000	17.5000
 Stephenville, TX	1	26.00	23.000	2.4000
+Stillwater, OK	1	44.00	20.000	0.6000
+Syracuse, NY	1	38.00	22.000	7.8000
 Tahlequah, OK	1	31.00	33.000	0.0000
+Tallahassee, FL	1	22.00	18.000	14.4000
+Tampa, FL	1	48.00	3.000	21.7000
 Toledo, OH	1	49.00	10.000	2.2000
+Troy, AL	1	26.00	28.000	8.9000
 Tulsa, OK	1	50.00	28.000	2.8000
+Tuscaloosa, AL	1	50.00	0.000	7.8000
+Valdosta, GA	1	42.00	10.000	18.5000
 Vermillion, SD	1	45.00	3.000	0.0000
 Villanova, PA	1	24.00	17.000	11.7000
+Waco, TX	1	45.00	3.000	7.3000
+Washington, DC	1	46.00	24.000	15.6000
 Wayne, NE	2	49.00	17.000	8.3000
+West Lafayette, IN	1	49.00	0.000	0.0000
 West Liberty, WV	1	21.00	41.000	10.1000
 West Point, NY	1	42.00	7.000	6.2000
 Wheeling, WV	1	25.00	28.000	10.1000

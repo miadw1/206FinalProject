@@ -204,10 +204,10 @@ def get_combined_data(conn):
     return c.fetchall()
 
 #debugging
-def check_weather_conditions(conn):
-    c = conn.cursor()
-    c.execute('SELECT DISTINCT condition_name FROM conditions')
-    conditions = c.fetchall()
+# def check_weather_conditions(conn):
+#     c = conn.cursor()
+#     c.execute('SELECT DISTINCT condition_name FROM conditions')
+#     conditions = c.fetchall()
 
 # Fetch combined data filtered for sunny weather
 def get_sunny_games(conn):
@@ -491,7 +491,6 @@ def main():
     results = c.execute('SELECT COUNT(*) FROM weather')
     count = results.fetchone()[0]
 
-    # while count<100:
     if count == 0:
       data = list(stadium_to_city_mapping.values())[count : count + 25]
     else:
@@ -515,7 +514,6 @@ def main():
     for game in data:
         insert_game_data(conn, game)
 
-    # if count>=100: #(add all data if all work using for loops)
     # Update city information
     update_city_information('sports_weather3.db', stadium_to_city_mapping)
 
