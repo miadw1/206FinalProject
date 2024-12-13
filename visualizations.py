@@ -38,8 +38,8 @@ def visualize_temp_vs_scores(conn):
 
 def visualize_average_scores(data):
   cities= [row[0] for row in data]
-  avg_home_scores= [row[1] for row in data]
-  avg_away_scores= [row[2] for row in data]
+  avg_home_scores= [row[2] for row in data]
+  avg_away_scores= [row[3] for row in data]
 
   plt.figure(figsize=(10, 6))
   plt.bar(cities, avg_home_scores, label= 'Average Home Score', alpha=0.7)

@@ -27,7 +27,7 @@ Charleston, SC	1	21.00	22.00	12.80
 Charlotte, NC	1	7.00	30.00	12.80
 Charlottesville, VA	1	34.00	13.00	3.30
 Cheney, WA	1	42.00	27.00	0.30
-Cincinnati, OH	1	38.00	20.00	1.70
+Cincinnati, OH	2	32.50	24.00	1.70
 College Park, MD	1	50.00	7.00	2.30
 Colorado Springs, CO	1	21.00	6.00	9.40
 Columbia, MO	1	50.00	0.00	1.10
@@ -89,7 +89,7 @@ Maryville, MO	1	22.00	36.00	0.30
 Memphis, TN	2	39.00	8.50	11.70
 Miami Gardens, FL	1	24.00	31.00	24.40
 Millersville, PA	1	7.00	36.00	0.60
-Minneapolis, MN	1	17.00	19.00	0.00
+Minneapolis, MN	2	32.50	9.50	0.00
 Minot, ND	1	38.00	7.00	0.00
 Missoula, MT	1	29.00	24.00	1.10
 Mobile, AL	1	38.00	50.00	16.70
@@ -108,7 +108,7 @@ Orlando, FL	1	50.00	3.00	22.20
 Orono, ME	1	17.00	14.00	0.00
 Oxford, MS	1	50.00	0.00	10.30
 Pembroke, NC	1	12.00	17.00	12.80
-Piscataway, NJ	1	44.00	7.00	1.10
+Piscataway, NJ	2	46.50	12.00	1.10
 Pittsburgh, PA	1	50.00	24.00	0.00
 Prairie View, TX	1	9.00	27.00	18.30
 Provo, UT	1	41.00	13.00	5.60
