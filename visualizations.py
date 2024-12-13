@@ -57,7 +57,7 @@ def visualize_weather_conditions(data):
   avg_temperature= [row[4] for row in data]
 
   fig,ax1= plt.subplots(figsize=(12,8))
-  ax1.bar(cities, avg_temperature, label= 'Average Temperature (C)', color= 'orange', alpha=0.7)
+  ax1.bar(cities, avg_temperature, label= 'Average Temperature (C)', color= 'green', alpha=0.7)
   ax1.set_xlabel('City')
   ax1.set_ylabel('Average Temperature (C)')
   ax1.tick_params(axis= 'y')
