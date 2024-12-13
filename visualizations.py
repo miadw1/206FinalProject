@@ -52,22 +52,6 @@ def visualize_average_scores(data):
   plt.tight_layout()
   plt.show()
 
-# def visualize_weather_conditions(data):
-#   cities= [row[0] for row in data]
-#   avg_temperature= [row[4] for row in data]
-
-#   fig,ax1= plt.subplots(figsize=(12,8))
-#   ax1.bar(cities, avg_temperature, label= 'Average Temperature (C)', color= 'purple', alpha=0.7)
-#   ax1.set_xlabel('City')
-#   ax1.set_ylabel('Average Temperature (C)')
-#   ax1.tick_params(axis= 'y')
-
-#   plt.title('Weather Conditions By City')
-#   plt.xticks(rotation=45, ha='right')
-#   plt.legend()
-#   plt.tight_layout()
-#   plt.show()
-
 def visualize_weather_conditions(data):
     cities = [row[0] for row in data]  
     avg_temperature = [row[4] for row in data]  
