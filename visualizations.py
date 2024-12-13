@@ -12,7 +12,7 @@ def visualize_sunny_scores(data):
 
     # Plot the data
     plt.figure(figsize=(10, 6))
-    plt.bar(cities, scores, color='orange')
+    plt.bar(cities, scores, color='pink')
     plt.xlabel('City')
     plt.ylabel('Home Score')
     plt.title('Home Scores in Cities with Sunny Conditions')
