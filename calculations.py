@@ -47,4 +47,4 @@ def write_data_to_file(data, filename):
   with open(filename, 'w') as file:
     file.write("City\tTotal Games\tAverage Home Score\tAverage Away Score\tAvg Temp (C)\n")
     for row in data:
-      file.write(f"{row[0]}\t{row[1]}\t{row[2]:.2f}\t{row[3]:.3f}\t{row[4]:.4f}\n")
+      file.write(f"{row[0]}\t{row[1]}\t{row[2]:.2f}\t{row[3]:.2f}\t{row[4]:.2f}\n")

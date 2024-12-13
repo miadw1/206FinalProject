@@ -10,8 +10,8 @@ Austin, TX	1	50.00	0.000	5.6000
 Bemidji, MN	1	19.00	13.000	0.0000
 Berkeley, CA	1	31.00	13.000	6.7000
 Birmingham, AL	1	41.00	3.000	16.1000
-Bismarck, ND	1	23.00	6.000	0.0000
-Bloomington, IN	1	31.00	7.000	0.0000
+Bismarck, ND	2	18.00	20.500	0.0000
+Bloomington, IN	2	40.50	5.000	0.0000
 Bluefield, WV	1	3.00	34.000	0.3000
 Boiling Springs, NC	1	20.00	21.000	16.1000
 Boone, NC	1	38.00	10.000	6.6000
@@ -21,7 +21,7 @@ Buffalo, NY	1	30.00	13.000	7.8000
 Canton, OH	1	23.00	7.000	0.0000
 Carrollton, GA	1	38.00	29.000	4.2000
 Cedar Falls, IA	1	35.00	7.000	0.0000
-Chadron, NE	1	6.00	18.000	0.0000
+Chadron, NE	2	11.50	14.000	0.0000
 Champaign, IL	1	45.00	0.000	0.0000
 Charleston, SC	1	21.00	22.000	19.1000
 Charlotte, NC	1	7.00	30.000	16.7000
