@@ -182,9 +182,9 @@ def main():
     count = results.fetchone()[0]
 
     if count == 0:
-      data = list(stadium_to_city_mapping.values())[count : count + 25]
+      data = list(stadium_to_city_mapping.values())[count : count + 12]
     else:
-      data = list(stadium_to_city_mapping.values())[count - 1: count + 24]
+      data = list(stadium_to_city_mapping.values())[count - 1: count + 11]
 
     for city in data:
         weather_data = createtables.fetch_weather_data(createtables.weatherAPIkey, city)
@@ -197,9 +197,9 @@ def main():
     cfb_data = createtables.fetch_cfb_data(createtables.cfbAPIkey, 2024)  
 
     if count == 0:
-      data = cfb_data[count : count + 25]
+      data = cfb_data[count : count + 12]
     else:
-      data = cfb_data[count - 1: count + 24]
+      data = cfb_data[count - 1: count + 11]
 
     for game in data:
         createtables.insert_game_data(conn, game)
