@@ -181,6 +181,7 @@ def main():
     results = c.execute('SELECT COUNT(*) FROM weather')
     count = results.fetchone()[0]
 
+    #add only 25 max at a time
     if count == 0:
       data = list(stadium_to_city_mapping.values())[count : count + 12]
     else:
@@ -211,19 +212,15 @@ def main():
     sunny_data = calculations.get_sunny_games(conn)
     visualizations.visualize_sunny_scores(sunny_data)
 
-    #city stats
+    #calculations
     city_stats= calculations.calculate_city_stats(conn)
     calculations.write_data_to_file(city_stats, 'city_stats.txt')
 
-    #visualize_total_games(city_stats)
+    #visualizations
     visualizations.visualize_average_scores(city_stats)
     visualizations.visualize_temp_vs_scores(conn)
-
-    # Visualize weather conditions
     visualizations.visualize_weather_conditions(city_stats)
 
-
-    #Close the database connection
     conn.close()
 
 if __name__ == "__main__":
