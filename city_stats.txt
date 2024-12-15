@@ -1,34 +1,115 @@
 City                Total Games         Average Home Score  Average Away Score  Avg Temp (C)   
-Albuquerque, NM     1                   31.00               35.00               14.40          
-Alpine, TX          1                   21.00               42.00               24.30          
-Atlanta, GA         1                   23.00               24.00               6.70           
+Albuquerque, NM     1                   31.00               35.00               7.20           
+Alpine, TX          1                   21.00               42.00               14.70          
+Ames, IA            1                   21.00               3.00                1.70           
+Amherst, MA         1                   14.00               28.00               11.30          
+Annapolis, MD       1                   49.00               21.00               3.30           
+Atlanta, GA         9                   22.67               18.33               7.80           
+Austin, TX          1                   50.00               0.00                22.20          
+Bemidji, MN         1                   19.00               13.00               0.00           
+Berkeley, CA        1                   31.00               13.00               12.20          
+Birmingham, AL      1                   41.00               3.00                11.70          
 Bismarck, ND        1                   23.00               6.00                0.00           
-Boiling Springs, NC 1                   20.00               21.00               4.10           
+Bloomington, IN     1                   31.00               7.00                12.20          
+Bluefield, WV       1                   3.00                34.00               1.10           
+Boiling Springs, NC 1                   20.00               21.00               4.20           
+Boone, NC           1                   38.00               10.00               0.00           
+Boulder, CO         1                   31.00               26.00               6.00           
 Bowling Green, OH   1                   41.00               17.00               6.10           
-Buffalo, NY         1                   30.00               13.00               1.70           
-Dublin, Ireland     1                   24.00               21.00               10.20          
-Edinboro, PA        1                   12.00               24.00               3.30           
-Fairmont, WV        1                   50.00               24.00               7.20           
-Honolulu, HI        1                   35.00               14.00               27.00          
-Jefferson City, TN  1                   50.00               7.00                10.30          
-Macon, GA           1                   50.00               10.00               11.70          
+Buffalo, NY         1                   30.00               13.00               1.10           
+Cedar Falls, IA     1                   35.00               7.00                0.60           
+Chadron, NE         1                   6.00                18.00               0.00           
+Champaign, IL       1                   45.00               0.00                7.80           
+Charleston, SC      1                   21.00               22.00               17.10          
+Charlottesville, VA 1                   34.00               13.00               1.70           
+Cheney, WA          1                   42.00               27.00               1.10           
+Cincinnati, OH      1                   38.00               20.00               8.90           
+College Park, MD    1                   50.00               7.00                3.60           
+Colorado Springs, CO1                   21.00               6.00                1.20           
+Columbia, MO        1                   50.00               0.00                7.20           
+Columbia, SC        1                   23.00               19.00               11.70          
+Columbus, OH        1                   50.00               6.00                5.50           
+Dayton, OH          1                   18.00               10.00               7.40           
+DeKalb, IL          1                   50.00               15.00               5.40           
+Des Moines, IA      1                   0.00                0.00                0.60           
+Dublin, Ireland     1                   24.00               21.00               11.40          
+Due West, SC        1                   50.00               0.00                6.70           
+Durango, CO         1                   20.00               35.00               9.40           
+Durham, NC          1                   26.00               3.00                8.90           
+East Lansing, MI    1                   16.00               10.00               3.30           
+Edinboro, PA        1                   12.00               24.00               0.60           
+Emory, VA           1                   38.00               7.00                1.20           
+Emporia, KS         1                   30.00               14.00               3.20           
+Evanston, IL        1                   13.00               6.00                6.10           
+Fairmont, WV        1                   50.00               24.00               6.10           
+Flagstaff, AZ       1                   50.00               6.00                10.30          
+Fort Valley, GA     1                   42.00               45.00               11.10          
+Frankfort, KY       1                   7.00                50.00               10.10          
+Gainesville, FL     1                   17.00               41.00               22.20          
+Hagerstown, MD      1                   41.00               24.00               0.60           
+Hays, KS            1                   21.00               7.00                3.80           
+Honolulu, HI        1                   35.00               14.00               23.10          
+Huntington, WV      1                   45.00               3.00                5.80           
+Indianapolis, IN    1                   40.00               7.00                8.20           
+Iowa City, IA       1                   40.00               0.00                0.60           
+Jacksonville, AL    1                   27.00               50.00               11.10          
+Jefferson City, TN  1                   50.00               7.00                10.10          
+Kansas City, KS     1                   48.00               3.00                2.40           
+Kingsville, TX      1                   13.00               16.00               24.40          
+Knoxville, TN       1                   50.00               3.00                10.10          
+Las Vegas, NM       1                   37.00               50.00               7.50           
+Lincoln, NE         1                   40.00               7.00                3.30           
+Little Rock, AR     1                   50.00               0.00                13.30          
+Logan, UT           1                   36.00               14.00               1.70           
+Louisville, KY      1                   50.00               0.00                11.10          
+Lynchburg, VA       1                   41.00               24.00               2.20           
+Macon, GA           1                   50.00               10.00               11.10          
+Madison, WI         1                   28.00               14.00               3.90           
 Marquette, MI       1                   7.00                35.00               1.10           
-Maryville, MO       1                   22.00               36.00               8.20           
-Millersville, PA    1                   7.00                36.00               2.20           
+Maryville, MO       1                   22.00               36.00               2.40           
+Millersville, PA    1                   7.00                36.00               0.60           
+Minneapolis, MN     1                   17.00               19.00               0.60           
 Minot, ND           1                   38.00               7.00                0.00           
-Monroe, LA          1                   30.00               14.00               25.10          
-Montgomery, AL      1                   37.00               15.00               17.70          
-Morehead, KY        2                   17.00               10.00               6.30           
-Mount Pleasant, MI  1                   50.00               10.00               1.20           
-Newark, DE          1                   48.00               17.00               5.10           
-Orlando, FL         1                   50.00               3.00                24.40          
-Piscataway, NJ      1                   44.00               7.00                2.80           
-Raleigh, NC         1                   38.00               21.00               10.60          
-Reno, NV            1                   24.00               29.00               3.90           
-Stephenville, TX    1                   26.00               23.00               25.70          
-Tahlequah, OK       1                   31.00               33.00               14.40          
-Villanova, PA       2                   24.00               17.00               2.50           
-Wayne, NE           1                   49.00               17.00               2.20           
-West Liberty, WV    1                   21.00               41.00               6.00           
-Williamsburg, VA    1                   41.00               7.00                9.60           
-Winston-Salem, NC   1                   45.00               13.00               3.90           
+Mobile, AL          1                   38.00               50.00               20.60          
+Monroe, LA          1                   30.00               14.00               21.10          
+Montgomery, AL      1                   37.00               15.00               15.60          
+Morehead, KY        2                   17.00               10.00               5.60           
+Morgantown, WV      1                   12.00               34.00               0.00           
+Mount Pleasant, MI  1                   50.00               10.00               0.10           
+Nacogdoches, TX     1                   50.00               0.00                22.80          
+Nashville, TN       1                   34.00               27.00               12.80          
+New Orleans, LA     1                   50.00               0.00                23.30          
+Newark, DE          1                   48.00               17.00               2.80           
+Norman, OK          1                   50.00               3.00                14.50          
+Orlando, FL         1                   50.00               3.00                25.10          
+Orono, ME           1                   17.00               14.00               0.00           
+Piscataway, NJ      1                   44.00               7.00                1.70           
+Pittsburgh, PA      1                   50.00               24.00               2.80           
+Pullman, WA         1                   50.00               30.00               1.70           
+Raleigh, NC         4                   27.50               17.00               8.90           
+Rapid City, SD      1                   6.00                35.00               2.40           
+Reno, NV            1                   24.00               29.00               0.00           
+Salt Lake City, UT  1                   49.00               0.00                2.70           
+San Antonio, TX     1                   28.00               16.00               23.30          
+San Jose, CA        1                   42.00               24.00               6.00           
+St. Paul, MN        1                   13.00               34.00               1.70           
+Stanford, CA        1                   27.00               34.00               6.30           
+Staten Island, NY   1                   46.00               7.00                3.30           
+Statesboro, GA      1                   45.00               50.00               14.20          
+Stephenville, TX    1                   26.00               23.00               16.50          
+Stillwater, OK      1                   44.00               20.00               8.90           
+Syracuse, NY        1                   38.00               22.00               0.60           
+Tahlequah, OK       1                   31.00               33.00               10.60          
+Toledo, OH          1                   49.00               10.00               5.50           
+Tulsa, OK           1                   50.00               28.00               5.90           
+Vermillion, SD      1                   45.00               3.00                0.10           
+Villanova, PA       2                   24.00               17.00               1.20           
+Washington, DC      1                   46.00               24.00               5.40           
+Wayne, NE           1                   49.00               17.00               1.10           
+West Lafayette, IN  1                   49.00               0.00                8.30           
+West Liberty, WV    1                   21.00               41.00               2.80           
+West Point, NY      1                   42.00               7.00                0.00           
+Wheeling, WV        1                   25.00               28.00               5.40           
+Wichita Falls, TX   1                   18.00               11.00               11.70          
+Williamsburg, VA    1                   41.00               7.00                10.60          
+Winston-Salem, NC   1                   45.00               13.00               3.30           
