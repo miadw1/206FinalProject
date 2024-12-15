@@ -1,12 +1,34 @@
-City	Total Games	Average Home Score	Average Away Score	Avg Temp (C)
-Albuquerque, NM	1	31.00	35.00	3.90
-Alpine, TX	1	21.00	42.00	15.60
-Atlanta, GA	1	23.00	24.00	7.50
-Dublin, Ireland	1	24.00	21.00	7.20
-Honolulu, HI	1	35.00	14.00	24.40
-Marquette, MI	1	7.00	35.00	0.00
-Montgomery, AL	1	37.00	15.00	10.90
-Piscataway, NJ	1	44.00	7.00	1.10
-Reno, NV	1	24.00	29.00	2.80
-Stephenville, TX	1	26.00	23.00	19.80
-Villanova, PA	1	24.00	17.00	1.20
+City                Total Games         Average Home Score  Average Away Score  Avg Temp (C)   
+Albuquerque, NM     1                   31.00               35.00               4.40           
+Alpine, TX          1                   21.00               42.00               11.10          
+Atlanta, GA         1                   23.00               24.00               11.10          
+Bismarck, ND        1                   23.00               6.00                0.00           
+Boiling Springs, NC 1                   20.00               21.00               4.00           
+Bowling Green, OH   1                   41.00               17.00               2.80           
+Buffalo, NY         1                   30.00               13.00               0.00           
+Dublin, Ireland     1                   24.00               21.00               11.30          
+Edinboro, PA        1                   12.00               24.00               0.00           
+Fairmont, WV        1                   50.00               24.00               2.20           
+Honolulu, HI        1                   35.00               14.00               27.40          
+Jefferson City, TN  1                   50.00               7.00                10.10          
+Macon, GA           1                   50.00               10.00               12.80          
+Marquette, MI       1                   7.00                35.00               0.00           
+Maryville, MO       1                   22.00               36.00               1.30           
+Millersville, PA    1                   7.00                36.00               0.00           
+Minot, ND           1                   38.00               7.00                0.00           
+Monroe, LA          1                   30.00               14.00               17.80          
+Montgomery, AL      1                   37.00               15.00               17.10          
+Morehead, KY        2                   17.00               10.00               8.00           
+Mount Pleasant, MI  1                   50.00               10.00               0.00           
+Newark, DE          1                   48.00               17.00               0.00           
+Orlando, FL         1                   50.00               3.00                18.30          
+Piscataway, NJ      1                   44.00               7.00                0.00           
+Raleigh, NC         1                   38.00               21.00               6.10           
+Reno, NV            1                   24.00               29.00               0.40           
+Stephenville, TX    1                   26.00               23.00               14.10          
+Tahlequah, OK       1                   31.00               33.00               10.30          
+Villanova, PA       2                   24.00               17.00               0.00           
+Wayne, NE           1                   49.00               17.00               0.00           
+West Liberty, WV    1                   21.00               41.00               2.20           
+Williamsburg, VA    1                   41.00               7.00                2.60           
+Winston-Salem, NC   1                   45.00               13.00               2.80           

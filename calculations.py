@@ -45,6 +45,6 @@ def calculate_city_stats(conn):
 #write to a file
 def write_data_to_file(data, filename):
   with open(filename, 'w') as file:
-    file.write("City\tTotal Games\tAverage Home Score\tAverage Away Score\tAvg Temp (C)\n")
+    file.write(f"{'City':<20}{'Total Games':<20}{'Average Home Score':<20}{'Average Away Score':<20}{'Avg Temp (C)':<15}\n")
     for row in data:
-      file.write(f"{row[0]}\t{row[1]}\t{row[2]:.2f}\t{row[3]:.2f}\t{row[4]:.2f}\n")
+       file.write(f"{row[0]:<20}{row[1]:<20}{row[2]:<20.2f}{row[3]:<20.2f}{row[4]:<15.2f}\n")
