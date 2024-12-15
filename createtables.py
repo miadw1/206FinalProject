@@ -74,7 +74,7 @@ def update_city_information(db_path, mapping):
 
 # Create database
 def create_database():
-    conn = sqlite3.connect('sports_weather3.db')
+    conn = sqlite3.connect('sports_weather.db')
     c = conn.cursor()
 
     # Cities Table

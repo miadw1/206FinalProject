@@ -20,22 +20,6 @@ def visualize_sunny_scores(data):
     plt.tight_layout()
     plt.show()
 
-def visualize_temp_vs_scores(conn):
-    c = conn.cursor()
-    c.execute('''
-        SELECT w.temperature, (g.home_score + g.away_score) AS total_score
-        FROM weather w
-        JOIN games g ON w.city_id = g.city_id
-    ''')
-    data = c.fetchall()
-    temps = [row[0] for row in data]
-    scores = [row[1] for row in data]
-    plt.scatter(temps, scores, alpha=0.5, color='blue')
-    plt.xlabel('Temperature (C)')
-    plt.ylabel('Total Game Score')
-    plt.title('Temperature vs Total Game Scores')
-    plt.show()
-
 def visualize_average_scores(data):
   cities= [row[0] for row in data]
   avg_home_scores= [row[2] for row in data]
@@ -51,6 +35,22 @@ def visualize_average_scores(data):
   plt.legend()
   plt.tight_layout()
   plt.show()
+
+def visualize_temp_vs_scores(conn):
+    c = conn.cursor()
+    c.execute('''
+        SELECT w.temperature, (g.home_score + g.away_score) AS total_score
+        FROM weather w
+        JOIN games g ON w.city_id = g.city_id
+    ''')
+    data = c.fetchall()
+    temps = [row[0] for row in data]
+    scores = [row[1] for row in data]
+    plt.scatter(temps, scores, alpha=0.5, color='blue')
+    plt.xlabel('Temperature (C)')
+    plt.ylabel('Total Game Score')
+    plt.title('Temperature vs Total Game Scores')
+    plt.show()
 
 def visualize_weather_conditions(data):
     cities = [row[0] for row in data]  

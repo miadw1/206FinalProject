@@ -205,7 +205,7 @@ def main():
         createtables.insert_game_data(conn, game)
 
     # Update city information
-    createtables.update_city_information('sports_weather3.db', stadium_to_city_mapping)
+    createtables.update_city_information('sports_weather.db', stadium_to_city_mapping)
 
     # Fetch sunny games data and visualize
     sunny_data = calculations.get_sunny_games(conn)
