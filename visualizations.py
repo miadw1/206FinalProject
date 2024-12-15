@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Visualize the data
+# Visualize the data for sunny scores
 def visualize_sunny_scores(data):
     if not data:
         print("No data available for sunny conditions.")
@@ -10,7 +10,6 @@ def visualize_sunny_scores(data):
     cities = [row[0] for row in data]
     scores = [row[1] for row in data]
 
-    # Plot the data
     plt.figure(figsize=(10, 6))
     plt.bar(cities, scores, color='pink')
     plt.xlabel('City')
@@ -20,6 +19,7 @@ def visualize_sunny_scores(data):
     plt.tight_layout()
     plt.show()
 
+# Visualize the data for average scores
 def visualize_average_scores(data):
   cities= [row[0] for row in data]
   avg_home_scores= [row[2] for row in data]
@@ -36,6 +36,7 @@ def visualize_average_scores(data):
   plt.tight_layout()
   plt.show()
 
+# Visualize the data comparing temperature and scores
 def visualize_temp_vs_scores(conn):
     c = conn.cursor()
     c.execute('''
@@ -52,6 +53,7 @@ def visualize_temp_vs_scores(conn):
     plt.title('Temperature vs Total Game Scores')
     plt.show()
 
+# Visualize the data comparing temperature and city
 def visualize_weather_conditions(data):
     cities = [row[0] for row in data]  
     avg_temperature = [row[4] for row in data]  
